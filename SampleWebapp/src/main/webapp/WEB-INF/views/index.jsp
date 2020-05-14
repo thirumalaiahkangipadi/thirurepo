@@ -8,6 +8,6 @@
 </head>
 <body>
 	<h2>${message}</h2>
-	<h4>Server/System date time is : ${date} </h4>
+	<h4>Server/System/Laptop date time is : ${date} </h4>
 </body>
 </html>
